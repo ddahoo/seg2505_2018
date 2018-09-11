@@ -1,9 +1,9 @@
 public class PersonInfo5 {
 
-    public static String firstName = "Billy";
-    public static String lastName = "Jean";
-    public static int studentNo = 44949382;
-    public static String description = "Not the best lover";
+    public static String firstName = "Jean-Luc";
+    public static String lastName = "Blais-Amyot";
+    public static int studentNo = 300035269;
+    public static String description = "CompSci";
     
     public static void displayFr() {
         String out = SIConstants.GREETING_FR;
